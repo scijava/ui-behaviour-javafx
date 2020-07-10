@@ -9,7 +9,7 @@
 	</parent>
 
 	<artifactId>ui-behaviour-javafx</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 
 	<name>UI Behaviour JavaFX Handler</name>
 	<description>Configurable key and mouse event handling</description>
